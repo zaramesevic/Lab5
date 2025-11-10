@@ -1,0 +1,112 @@
+city,country,size,capital
+SA, BiH,tiny-city-1, False
+Tokyo,Japan,large,False
+Osaka,Japan,large,False
+Kyoto,Japan,medium,False
+Seoul,South Korea,large,True
+Busan,South Korea,large,False
+Beijing,China,large,True
+Shanghai,China,large,False
+Shenzhen,China,large,False
+Hong Kong,China,large,False
+Taipei,Taiwan,large,True
+Singapore,Singapore,large,True
+Bangkok,Thailand,large,True
+Chiang Mai,Thailand,medium,False
+Hanoi,Vietnam,large,True
+Ho Chi Minh City,Vietnam,large,False
+Jakarta,Indonesia,large,True
+Surabaya,Indonesia,large,False
+Manila,Philippines,large,True
+Cebu City,Philippines,medium,False
+Kuala Lumpur,Malaysia,large,True
+Johor Bahru,Malaysia,medium,False
+Delhi,India,large,True
+Mumbai,India,large,False
+Bengaluru,India,large,False
+Kolkata,India,large,False
+Karachi,Pakistan,large,False
+Lahore,Pakistan,large,False
+Islamabad,Pakistan,medium,True
+Sydney,Australia,large,False
+Melbourne,Australia,large,False
+Brisbane,Australia,medium,False
+Canberra,Australia,small,True
+Auckland,New Zealand,medium,False
+Wellington,New Zealand,small,True
+Cairo,Egypt,large,True
+Alexandria,Egypt,large,False
+Nairobi,Kenya,large,True
+Mombasa,Kenya,medium,False
+Lagos,Nigeria,large,False
+Abuja,Nigeria,medium,True
+Johannesburg,South Africa,large,False
+Cape Town,South Africa,large,False
+Pretoria,South Africa,medium,True
+Addis Ababa,Ethiopia,large,True
+Accra,Ghana,large,True
+Casablanca,Morocco,large,False
+Rabat,Morocco,medium,True
+Algiers,Algeria,large,True
+Tunis,Tunisia,large,True
+Istanbul,Türkiye,extraLarge,False
+Ankara,Türkiye,large,True
+Izmir,Türkiye,large,False
+Riyadh,Saudi Arabia,large,True
+Jeddah,Saudi Arabia,large,False
+Dubai,United Arab Emirates,large,False
+Abu Dhabi,United Arab Emirates,large,True
+Doha,Qatar,large,True
+Kuwait City,Kuwait,medium,True
+Tehran,Iran,large,True
+Mashhad,Iran,large,False
+Baghdad,Iraq,large,True
+Erbil,Iraq,medium,False
+Jerusalem,Israel,medium,True
+Tel Aviv,Israel,medium,False
+Amman,Jordan,large,True
+Beirut,Lebanon,medium,True
+Damascus,Syria,large,True
+Moscow,Russia,large,True
+Saint Petersburg,Russia,large,False
+Novosibirsk,Russia,large,False
+London,United Kingdom,large,True
+Manchester,United Kingdom,large,False
+Edinburgh,United Kingdom,medium,True
+Paris,France,large,True
+Lyon,France,medium,False
+Marseille,France,large,False
+Berlin,Germany,large,True
+Munich,Germany,large,False
+Hamburg,Germany,large,False
+Frankfurt,Germany,large,False
+Madrid,Spain,large,True
+Barcelona,Spain,large,False
+Valencia,Spain,large,False
+Rome,Italy,large,True
+Milan,Italy,large,False
+Naples,Italy,large,False
+Lisbon,Portugal,medium,True
+Porto,Portugal,medium,False
+Amsterdam,Netherlands,large,True
+Rotterdam,Netherlands,large,False
+Brussels,Belgium,large,True
+Antwerp,Belgium,medium,False
+Zurich,Switzerland,medium,False
+Geneva,Switzerland,medium,False
+Bern,Switzerland,small,True
+Stockholm,Sweden,large,True
+Gothenburg,Sweden,medium,False
+Oslo,Norway,medium,True
+Bergen,Norway,small,False
+Copenhagen,Denmark,medium,True
+Aarhus,Denmark,small,False
+Helsinki,Finland,medium,True
+Turku,Finland,small,False
+Reykjavik,Iceland,small,True
+New York City,United States,large,False
+Los Angeles,United States,large,False
+Chicago,United States,large,False
+Washington, D.C.,United States,medium,TrueSarajevo1, Bosnia and Herzegovina, large, trueSarajevo1, Bosnia and Herzegovina, large, trueSarajevo1, Bosnia and Herzegovina, large, true
+Sarajevo1, Bosnia and Herzegovina, large, true
+Sarajevo1, Bosnia and Herzegovina, large, true
